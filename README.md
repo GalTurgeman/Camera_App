@@ -7,3 +7,9 @@ This app was created for Attack Lab in Ariel University.
  After capture the picture will display in the second screen.
  
 # Screenshot
+<img src="https://github.com/GalTurgeman/Camera_App/blob/master/Screenshot_1.png" height="50%" width="50%">
+<img src="https://github.com/GalTurgeman/Camera_App/blob/master/Screenshot_2.png" height="50%" width="50%">
+<img src="https://github.com/GalTurgeman/Camera_App/blob/master/Screenshot_3.png" height="50%" width="50%">
+<img src="https://github.com/GalTurgeman/Camera_App/blob/master/Screenshot_4.png" height="50%" width="50%">
+<img src="https://github.com/GalTurgeman/Camera_App/blob/master/Screenshot_5.png" height="50%" width="50%">
+<img src="https://github.com/GalTurgeman/Camera_App/blob/master/Screenshot_6.png" height="50%" width="50%">
