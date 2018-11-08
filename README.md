@@ -1,5 +1,5 @@
 # Camera_App
-This app was created for Attack Lab in Ariel University.
+This app was created for "Attack Lab" course in Ariel University.
 
 # Desctiption:
  In the first screen the user enter his name and has a button that switch to the second screen.<BR>
